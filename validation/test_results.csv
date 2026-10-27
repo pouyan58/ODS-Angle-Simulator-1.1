@@ -1,0 +1,14 @@
+Name,Passed,Failed,Incomplete,Duration
+pfdPowerControlTest/nadirMatchesFreeSpace,1,0,0,1.1756729
+pfdPowerControlTest/pfdChangeScalesPower,1,0,0,0.5743732
+pfdPowerControlTest/wholeEarthPfdBelowLimit,1,0,0,0.1500175
+pfdPowerControlTest/boundingGridConverges,1,0,0,2.3504651
+pfdPowerControlTest/retaskedGeometryChangesPeak,1,0,0,0.0114931
+pfdPowerControlTest/positiveErrorCannotErasePattern,1,0,0,0.0072188
+pfdPowerControlTest/negativePowerOffsetBacksOff,1,0,0,0.0035825
+pfdPowerControlTest/hardwareCeilingLimitsPeak,1,0,0,0.5967148
+pfdPowerControlTest/invalidPfdRejected,1,0,0,0.0439571
+pfdPowerControlTest/missingPeakCannotNormalizeAtReceiver,1,0,0,0.0187866
+pfdPowerControlTest/aggregateIsNotClippedToOneBeam,1,0,0,4.5879367
+pfdPowerControlTest/existingReleaseChecks,1,0,0,0.737321
+pfdPowerControlTest/endToEndSmoke,1,0,0,72.4829425
